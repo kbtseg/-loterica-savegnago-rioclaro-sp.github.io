@@ -1,1 +1,1 @@
-# -loterica-savegnago-rioclaro-sp.github.io
+# loterica-savegnago-rioclaro-sp.github.io
